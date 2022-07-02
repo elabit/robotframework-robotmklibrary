@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "robotframework-checkmklibrary"
+version = "0.1.0"
+description = "A keyword library for Checkmk monitoring suites executed by Robotmk to monitor applications from remote locations."
+authors = ["Simon Meggle <simon.meggle@elabit.de>"]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+robotframework = ">=4"
+dnspython = "2.2.1"
+
+[tool.poetry.dev-dependencies]
+pytest = "^7.1.2"
+coverage = "^6.3.2"
+invoke = "^1.7.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

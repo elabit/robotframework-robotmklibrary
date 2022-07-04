@@ -21,7 +21,7 @@ class CheckmkLibrary:
 
     Project homepage: https://github.com/simonmeggle/robotframework-checkmklibrary
 
-    Keyword Documentation: FIXME
+    Keyword Documentation: https://simonmeggle.github.io/robotframework-checkmklibrary/checkmklibrary.html
 
     More information:
     - Checkmk: https://checkmk.com

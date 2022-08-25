@@ -1,16 +1,16 @@
-## Contributor Agreement
+# Contributor Agreement
 
 ## Individual Contributor Non-Exclusive License Agreement
 
-## (including the Traditional Patent License Option)
+(including the Traditional Patent License Option)
 
-Thank you for your interest in contributing to ELABIT GmbH's ("We" or "Us") project *Robotmk*.
+Thank you for your interest in contributing to ELABIT GmbH's ("We" or "Us") project *Robotmk*!
 
 The purpose of this contributor agreement ("Agreement") is to clarify and document the rights granted by contributors to Us. To make this document effective, please follow the instructions at <https://github.com/elabit/robotframework-checkmklibrary/blob/main/CONTRIBUTING.md>.
 
 ### How to use this Contributor Agreement
 
-This is the document version for individuals. If You are an employee and have created the Contribution as part of your employment, You need to have Your employer approve this Agreement or sign the [Entity version of this document](./cla-entity.md). If You do not own the Copyright in the entire work of authorship, any other author of the Contribution should also sign this – in any event, please contact Us at robotmk@elabit.de
+**Important note:** This is the document version for individuals 👨‍🦱. If You are an employee and have created the Contribution as part of your employment, You need to have Your employer approve this Agreement or sign the [Entity version of this document](./cla-entity.md). If You do not own the Copyright in the entire work of authorship, any other author of the Contribution should also sign this – in any event, please contact Us at robotmk@elabit.de
 
 ### 1\. Definitions
 

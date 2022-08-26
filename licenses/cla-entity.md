@@ -86,30 +86,6 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 4. AND SECTION 5. CANNO
 
 8.5 You agree to notify Us of any facts or circumstances of which you become aware that would make this Agreement inaccurate in any respect.
 
-### You
+---
 
-Date:
-
-Name:
-
-Title:
-
-Address:
-
-### Us
-
-Date:
-
-Name:
-
-Title:
-
-Address:
-
-#### Recreate this Contributor License Agreement
-
-[https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=ELABIT+GmbH&project-name=Robotmk&project-website=https%3A%2F%2Fgithub.com%2Fsimonmeggle%2Frobotmk&project-email=robotmk%40elabit.de&process-url=https%3A%2F%2Fgithub.com%2Felabit%2Frobotmk%2Fblob%2Fmaster%2FCONTRIBUTING.md&project-jurisdiction=Germany&agreement-exclusivity=non-exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=None&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=ELABIT+GmbH&project-name=Robotmk&project-website=https%3A%2F%2Fgithub.com%2Fsimonmeggle%2Frobotmk&project-email=robotmk%40elabit.de&process-url=https%3A%2F%2Fgithub.com%2Felabit%2Frobotmk%2Fblob%2Fmaster%2FCONTRIBUTING.md&project-jurisdiction=Germany&agreement-exclusivity=non-exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=None&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=)
-
-[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=ELABIT+GmbH&project-name=Robotmk&project-website=https%3A%2F%2Fgithub.com%2Fsimonmeggle%2Frobotmk&project-email=robotmk%40elabit.de&process-url=https%3A%2F%2Fgithub.com%2Felabit%2Frobotmk%2Fblob%2Fmaster%2FCONTRIBUTING.md&project-jurisdiction=Germany&agreement-exclusivity=non-exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=None&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=)
-
-[](https://contributoragreements.org/ca-cla-chooser/?beneficiary-name=ELABIT+GmbH&project-name=Robotmk&project-website=https%3A%2F%2Fgithub.com%2Fsimonmeggle%2Frobotmk&project-email=robotmk%40elabit.de&process-url=https%3A%2F%2Fgithub.com%2Felabit%2Frobotmk%2Fblob%2Fmaster%2FCONTRIBUTING.md&project-jurisdiction=Germany&agreement-exclusivity=non-exclusive&fsfe-compliance=&fsfe-fla=&outbound-option=no-commitment&outboundlist=&outboundlist-custom=&medialist=None&patent-option=Traditional&your-date=&your-name=&your-title=&your-address=&your-patents=&pos=apply&action=)
+(No signature needed from your side at this point. To accept this CLA, follow the instructions in the [CONTRIBUTING Guide](../CONTRIBUTING.md))

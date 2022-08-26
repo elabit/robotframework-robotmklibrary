@@ -86,22 +86,6 @@ IF THE DISCLAIMER AND DAMAGE WAIVER MENTIONED IN SECTION 4. AND SECTION 5. CANNO
 
 8.5 You agree to notify Us of any facts or circumstances of which you become aware that would make this Agreement inaccurate in any respect.
 
-### You
+---
 
-Date:
-
-Name:
-
-Title:
-
-Address:
-
-### Us
-
-Date:
-
-Name:
-
-Title:
-
-Address:
+(No signature needed from your side at this point. To accept this CLA, follow the instructions in the [CONTRIBUTING Guide](../CONTRIBUTING.md))

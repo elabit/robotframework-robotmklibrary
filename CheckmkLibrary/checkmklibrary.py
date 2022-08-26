@@ -1,3 +1,6 @@
+# SPDX-FileCopyrightText: © 2022 ELABIT GmbH <mail@elabit.de>
+# SPDX-License-Identifier: GPL-3.0-or-later
+
 from robot.api import logger
 from robot.api.exceptions import Failure, Error
 from robot.api.deco import library, keyword

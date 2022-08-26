@@ -29,7 +29,7 @@ jobs:
           #remote-repository-name:  enter the  remote repository name where the signatures should be stored (Default is storing the signatures in the same repository)
           #create-file-commit-message: 'For example: Creating file for storing CLA Signatures'
           #signed-commit-message: 'For example: $contributorName has signed the CLA in #$pullRequestNo'
-          custom-notsigned-prcomment: '<br/>Thank you for your Pull Request, we really appreciate it!<br/>We kindly ask that you to sign our [Contributor License Agreement](${input.getPathToDocument()}) before we can accept your contribution.<br/>Signing is easy: copy the line between the two following lines ("I have read..."), open your pull request and add the copied line as a new comment. The CLA is now signed and your changes can be applied!<br/>'
+          custom-notsigned-prcomment: '<br/>Thank you for your Pull Request, we really appreciate it!<br/>We kindly ask that you to agree to our CLA (https://github.com/elabit/robotframework-checkmklibrary/blob/main/licenses/cla.md) before we can accept your contribution.<br/>To accept/sign the CLA, copy the line between the two following lines ("I have read..."), and add the copied line as a new comment to the pull request. The CLA-bot will add you to the list of accepted contributors.<br/>'
           #custom-pr-sign-comment: 'The signature to be committed in order to sign the CLA'
           #custom-allsigned-prcomment: 'pull request comment when all contributors has signed, defaults to **CLA Assistant Lite bot** All Contributors have signed the CLA.'
           #lock-pullrequest-aftermerge: false - if you don't want this bot to automatically lock the pull request after merging (default - true)
